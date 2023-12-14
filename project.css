@@ -4,6 +4,7 @@
 *{    
     margin: 0;
     padding: 0;
+   
 }
 
 header{
@@ -64,68 +65,48 @@ main{
     height: 100vh;
     max-width: 100%;
     display: flex;
-    background-image: 100px;
+    background-image: url(TECH\ EVENT\ .jpg);
+    
+    
     
 }
-.venue{
-    display: flex;
-    flex: 6;
-    align-items: left;
-    height: 60vh;
-    padding: 30px ;
-    margin: 5px;
-}
-.venue img{
-    height: 60vh;
-    width: 80vh;
-    margin-top: 2px;
-    padding-top: 10px;
-    display: flex;
-    flex-direction: row;
-    align-items:center;
-    justify-content: center;
-}
+
+
 
 
 .Text1{
-    display: flex;
-    padding-inline: 80px;
-    text-align: justify;
-    flex-direction:row;
-    flex-wrap: wrap;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style:normal;
     font-size: 10vh;
     font-weight: bolder;
     font-stretch: expanded;
-    float: right;
-    color: white;
-    margin-top: 2px;
-    align-items: start;
-    justify-content: start;
-    text-align:right;
-
+   
+    color: rgb(234, 150, 150);
+    text-align: center;
+    
+  
+    
 }
 
+
+
 .Text2{
-    display: flex;
-    flex-direction: row;
-    flex-wrap:wrap ;
-    text-align: justify;
+    
+    padding: 5px;
+   
+    margin: 10px;
     font-family:  Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
     font-weight: bolder;
     font-size: 5vh;
     font: 1000;
     font-stretch: expanded;
-    padding-left: 25px;
-    padding-right: 2px;
-    margin-left: 20px;
-    margin-right: 5px;
-    align-items: center;
-    justify-content: center;
     text-align: center;
     color: rgb(29, 82, 82);
+   
+
+    
+    
 }
 h3{
     display: flex;
