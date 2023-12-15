@@ -5,7 +5,7 @@ This is a website that show waht tech events are happening. It gives detailed in
 
 ## Figma design
 
-<a href="">View my figma design</a>
+<a href="https://www.figma.com/file/Ot4uWw9HSWLm0QLM7LBejG/tech-innovations?type=design&node-id=0%3A1&mode=dev ">View my figma design</a>
 
 ## Live link
 
